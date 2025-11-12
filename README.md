@@ -1,4 +1,7 @@
-requilibrage pour train et raw pour test
-"minority_upsampled = resample(" remplacer par imblearn(smote)
-grid search utiliser pipeline depuis imblearn
-presentation faire slide requilibrage (sois oversampling, undersampling, classweight)
+hyper parametre 3
+feature engineering
+2 shap scatter plot
+virer 2e graphe
+reformuler raison départ + collecter resultat
+modifier graph presentation en after treatement
+confirmer critere de validation
